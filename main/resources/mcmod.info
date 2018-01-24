@@ -1,0 +1,16 @@
+[
+{
+"modid": "TorakCraft",
+  "name": "TorakCraft",
+  "description": "second attempt at Minecraft modding.",
+  "version": "${0.1}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AutisticGitHub"],
+  "credits": "AutisticGitHub",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
